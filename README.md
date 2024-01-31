@@ -6,3 +6,13 @@ In this project, I was focusing on image classification using a Convolutional Ne
 - Built and trained a CNN classifier, reporting accuracy for clean and noisy test images.
 - Additionally, designed a CNN autoencoder to denoise the images, showcasing examples through plots, and reported classification accuracy for the autoencoder denoised test images.
 - Finally, evaluated the original model's performance when trained with noisy images, reporting accuracy for noisy test images.
+
+
+#### Project Details:
+- Language: Python
+- Dataset MNIST Fashion Dataset
+- Goal: Classify images.
+- Techniques: Deep Learning, Convolutional Neural Network (CNN)
+- Library: TensorFlow, Keras
+- Environment: Anaconda
+  
